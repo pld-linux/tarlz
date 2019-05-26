@@ -1,0 +1,14 @@
+--- tarlz-0.15/doc/tarlz.texi.orig	2019-04-11 15:40:47.000000000 +0200
++++ tarlz-0.15/doc/tarlz.texi	2019-05-26 11:58:38.120625988 +0200
+@@ -9,9 +9,9 @@
+ @set UPDATED 11 April 2019
+ @set VERSION 0.15
+ 
+-@dircategory Data Compression
++@dircategory File utilities:
+ @direntry
+-* Tarlz: (tarlz).               Archiver with multimember lzip compression
++* Tarlz: (tarlz).			Archiver with multimember lzip compression
+ @end direntry
+ 
+ 
