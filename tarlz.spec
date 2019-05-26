@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Równoległa, połączona implementacha archiwizera tar oraz 
 Name:		tarlz
 Version:	0.15
 Release:	1
-License:	GPL v3+
+License:	GPL v2+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/tarlz/%{name}-%{version}.tar.lz
 # Source0-md5:	8b2ba09c63c0621e930f92413bbd619c
