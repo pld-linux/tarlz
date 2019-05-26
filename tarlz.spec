@@ -1,5 +1,5 @@
 Summary:	Parallel combined implementation of tar archiver and lzip compressor
-Summary(pl.UTF-8):	Równoległa, połączona implementacha archiwizera tar oraz kompresora lzip
+Summary(pl.UTF-8):	Równoległa, połączona implementacja archiwizera tar oraz kompresora lzip
 Name:		tarlz
 Version:	0.15
 Release:	1
