@@ -1,8 +1,8 @@
---- tarlz-0.15/doc/tarlz.texi.orig	2019-04-11 15:40:47.000000000 +0200
-+++ tarlz-0.15/doc/tarlz.texi	2019-05-26 11:58:38.120625988 +0200
+--- tarlz-0.19/doc/tarlz.texi.orig	2021-01-08 22:49:02.000000000 +0100
++++ tarlz-0.19/doc/tarlz.texi	2021-05-09 17:12:58.457873187 +0200
 @@ -9,9 +9,9 @@
- @set UPDATED 11 April 2019
- @set VERSION 0.15
+ @set UPDATED 8 January 2021
+ @set VERSION 0.19
  
 -@dircategory Data Compression
 +@dircategory File utilities:
