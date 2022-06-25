@@ -1,12 +1,12 @@
 Summary:	Parallel combined implementation of tar archiver and lzip compressor
 Summary(pl.UTF-8):	Równoległa, połączona implementacja archiwizera tar oraz kompresora lzip
 Name:		tarlz
-Version:	0.19
-Release:	2
+Version:	0.22
+Release:	1
 License:	GPL v2+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/tarlz/%{name}-%{version}.tar.lz
-# Source0-md5:	23fc810d9d29234ec34e08847248b62c
+# Source0-md5:	980e4a7ebff0f100715b5a9717f67d31
 Patch0:		%{name}-info.patch
 URL:		http://savannah.nongnu.org/projects/lzip/
 BuildRequires:	libstdc++-devel >= 6:4.7
