@@ -1,10 +1,10 @@
---- tarlz-0.22/doc/tarlz.texi.orig	2022-06-25 16:47:44.806108662 +0200
-+++ tarlz-0.22/doc/tarlz.texi	2022-06-25 16:51:23.184925603 +0200
+--- tarlz-0.23/doc/tarlz.texi.orig	2024-01-30 18:25:21.088562448 +0100
++++ tarlz-0.23/doc/tarlz.texi	2024-01-30 18:25:51.625063684 +0100
 @@ -9,9 +9,9 @@
- @set UPDATED 5 January 2022
- @set VERSION 0.22
+ @set UPDATED 23 September 2022
+ @set VERSION 0.23
  
--@dircategory Data Compression
+-@dircategory Archiving
 +@dircategory File utilities:
  @direntry
 -* Tarlz: (tarlz).               Archiver with multimember lzip compression
