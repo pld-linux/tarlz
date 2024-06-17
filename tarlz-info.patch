@@ -1,8 +1,8 @@
---- tarlz-0.23/doc/tarlz.texi.orig	2024-01-30 18:25:21.088562448 +0100
-+++ tarlz-0.23/doc/tarlz.texi	2024-01-30 18:25:51.625063684 +0100
+--- tarlz-0.25/doc/tarlz.texi.orig	2024-06-17 21:52:41.338188197 +0200
++++ tarlz-0.25/doc/tarlz.texi	2024-06-17 21:53:30.264589807 +0200
 @@ -9,9 +9,9 @@
- @set UPDATED 23 September 2022
- @set VERSION 0.23
+ @set UPDATED 3 January 2024
+ @set VERSION 0.25
  
 -@dircategory Archiving
 +@dircategory File utilities:
