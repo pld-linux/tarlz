@@ -46,7 +46,13 @@ dołączać pliki na końcu takich skompresowanych archiwów.
 %patch -P0 -p1
 
 %build
-%configure
+# not autoconf configure, imitates 2.50+ style invocation (exported variables don't work)
+./configure \
+	CXX="%{__cxx}" \
+	CXXFLAGS="%{rpmcxxflags}" \
+	CPPFLAGS="%{rpmcppflags}" \
+	LDFLAGS="%{rpmldflags}" \
+	--prefix=%{_prefix}
 
 %{__make} all info
 
